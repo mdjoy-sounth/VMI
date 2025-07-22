@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vmi.mdjoysounth.org/sitemap.xml
